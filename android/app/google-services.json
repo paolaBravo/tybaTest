@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925565829582",
+    "project_id": "restaurantstest-cb34d",
+    "storage_bucket": "restaurantstest-cb34d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925565829582:android:54e71d6046a27a7bb42b9f",
+        "android_client_info": {
+          "package_name": "com.example.tyba_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925565829582-37fd2q35cbkr13s0p983t85c2bnevp49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSHK7YEMNKzUQcl2UETVu4P5QELkp_N_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925565829582-37fd2q35cbkr13s0p983t85c2bnevp49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
